@@ -9,8 +9,8 @@ xhofe/alist:latest
 #kasmweb/nginx:1.25.3
 #python:alpine3.19
 
-milvus-etcd
-milvus-minio
+#milvus-etcd
+#milvus-minio
 milvus-standalone
-milvus
+#milvus
 
