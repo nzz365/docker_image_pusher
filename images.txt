@@ -11,6 +11,6 @@ xhofe/alist:latest
 
 #milvus-etcd
 #milvus-minio
-milvus-standalone
+milvus-standalone:latest
 #milvus
 
