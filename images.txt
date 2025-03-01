@@ -17,4 +17,4 @@
 #milvusdb/milvus:v2.4.0
 #milvus:latest
 
-milvusdb/milvus:v2.4.3
+milvusdb/milvus:latest
